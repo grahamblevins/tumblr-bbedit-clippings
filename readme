@@ -1,0 +1,11 @@
+BBEdit Clippings for Tumblr theme developers
+
+Intended for Tumblr theme developers who are using BBEdit and would like to improve workflow and efficiency.
+
+Installation instructions:
+
+Put the project folder in ~/Library/Application Support/BBEdit/Clippings/
+
+Includes defined operators found here:
+
+http://www.tumblr.com/docs/en/custom_themes
