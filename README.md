@@ -1,4 +1,4 @@
-A BBEdit Clippings Library for Tumblr Theme Development
+Tumblr theme operator shortcuts (clippings) for BBEdit
 
 Intended for Tumblr theme developers who are using BBEdit and would like to have theme operator support in their editor.
 
